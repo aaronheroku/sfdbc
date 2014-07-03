@@ -1,8 +1,8 @@
 angular.module('nibs.config', [])
 
-    .constant('FB_APP_ID','228292937372096')
+    .constant('FB_APP_ID','1471135926464074')
 
-    .constant('HOST','http://localhost:5000/')
+    .constant('HOST','http://hidden-bastion-5468.herokuapp.com/')
 //    .constant('HOST','http://sfdbc.herokuapp.com/')
 
     .constant('STATUS_LABELS', [
